@@ -1,6 +1,6 @@
 print('im good ')
-a=0
-if a==0:
+a=0 , b=77777 c==77
+if a==0 and c==77:
     print('we are good')
 else:
     print('new commit')
