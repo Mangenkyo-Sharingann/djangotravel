@@ -11,3 +11,5 @@ def prime():
         
     else:
         print('prime number')
+
+prime()
